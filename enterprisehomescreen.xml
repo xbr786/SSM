@@ -9,6 +9,7 @@
   <tools>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
     <application label="Settings" package="com.android.settings" activity="com.android.settings.Settings"/>
+    <application label="RxLogger" package="com.symbol.rxlogger" activity="com.symbol.rxlogger.MainActivity"/>
   </tools>
   <passwords>
     <admin attempts="1"/>
@@ -43,5 +44,15 @@
       <speed_threshold>10</speed_threshold>
       <blanking_mode>1</blanking_mode>
     </screen_blanking>
+    <apps_enabled>
+      <application package="com.google.android.setupwizard"/>
+      <application package="com.android.settings"/>
+      <application package="com.android.contacts"/>
+      <application package="com.android.inputmethod.latin"/>
+      <application package="com.google.android.googlequicksearchbox"/>
+      <application package="com.android.messaging"/>
+      <application package="com.android.dialer"/>
+      <application package="com.symbol.zebravolumecontrol"/>
+    </apps_enabled>
   </preferences>
 </config>

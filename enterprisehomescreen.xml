@@ -4,7 +4,8 @@
   </kiosk>
   <applications>
     <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
-	<application label="Chrome" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
+    <application label="Chrome" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
+    <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>
   </applications>
   <tools>
     <application label="StageNow" package="com.symbol.tool.stagenow" activity="com.symbol.tool.stagenow.main.HomeScreen"/>

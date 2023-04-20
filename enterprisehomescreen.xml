@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><config>
+  <kiosk>
+    <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
+  </kiosk>
+  <applications>
+    <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
+    <application label="Chrome" package="com.android.chrome" activity="com.google.android.apps.chrome.Main"/>
+    <application label="‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‏‎‏‏‏‏‎‎‏‎‏‏‎‏‏‎‎‏‎‎‏‎‏‏‎‏‏‏‎‎‎‏‏‏‏‎‏‏‏‎‏‎‏‎‏‎‏‎‎‏‏‎‏‏‎‏‏‎‏‏‏‏‏‏‎‎‎‏‎Settings‎‏‎‎‏‎" package="com.android.settings" activity="com.android.settings.Settings"/>
+  </applications>
+  <tools>
+    <application label="DWDemo" package="com.symbol.datawedge" activity="com.symbol.datawedge.DWDemoActivity"/>
+  </tools>
+  <passwords>
+    <admin attempts="1"/>
+  </passwords>
+  <user_options/>
+  <preferences>
+    <usb_debugging_disabled>0</usb_debugging_disabled>
+    <keyguard_search_disabled>1</keyguard_search_disabled>
+    <recent_apps_access_disabled>1</recent_apps_access_disabled>
+    <icon_label_background_color>#00FFFFFF</icon_label_background_color>
+    <keyguard_camera_disabled>1</keyguard_camera_disabled>
+    <kiosk_mode_enabled>0</kiosk_mode_enabled>
+    <orientation/>
+    <wallpaper/>
+    <icon_label_text_color>#FFFFFFFF</icon_label_text_color>
+    <recent_apps_button_disabled>1</recent_apps_button_disabled>
+    <auto_launch_enable>0</auto_launch_enable>
+    <service_auto_launch_enable>0</service_auto_launch_enable>
+    <system_settings_restricted>0</system_settings_restricted>
+    <title>
+      <value>[serial_number]</value>
+    </title>
+    <wireless_info>
+      <show_ip_address>0</show_ip_address>
+      <show_mac_address>0</show_mac_address>
+      <show_bssid>0</show_bssid>
+      <show_ssid>0</show_ssid>
+      <show_scan_result>0</show_scan_result>
+    </wireless_info>
+    <screen_blanking>
+      <blanking_enabled>0</blanking_enabled>
+      <speed_threshold>10</speed_threshold>
+      <blanking_mode>1</blanking_mode>
+    </screen_blanking>
+    <apps_disabled>
+    </apps_disabled>
+    <apps_enabled>
+      <application package="com.google.android.googlequicksearchbox"/>
+      <application package="com.android.contacts"/>
+      <application package="com.android.settings"/>
+    </apps_enabled>
+  </preferences>
+</config>

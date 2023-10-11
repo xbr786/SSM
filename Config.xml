@@ -1,9 +1,9 @@
 <?xml version = "1.0"?>
 <!--
-EnterpriseBrowser_v3.3.2.1 Configuration file
+EnterpriseBrowser_v3.5.0.7 Configuration file
 -->
 <Configuration>
-   <EB_VERSION value="3.3.2.1"/>
+   <EB_VERSION value="3.5.0.7"/>
   <HideSystemBar value ="0"/> 
   <DebugButtons>
     <DebugButtonsEnabled value="0" />
@@ -62,7 +62,7 @@ EnterpriseBrowser_v3.3.2.1 Configuration file
     
   <FileLocations>
     <RegEXFile  value="file://%INSTALLDIR%/RegEx.xml"/>
-	<buttonxmlfile value="file://%INSTALLDIR%/android_sap/EKBCustomLayouts.encrypted" />
+	<buttonxmlfile value="" />
 	<customxmlfile  value="file://%INSTALLDIR%/android_sap/CustomScript.xml"/>
 	<keycodemappingxmlfile value="file://%INSTALLDIR%/android_sap/keycodemapping.xml"/>
 	<!--keycodemappingxmlfile value="file://%PERSISTCONFDIR%/android_sap/keycodemapping.xml"/-->	

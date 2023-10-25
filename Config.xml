@@ -139,7 +139,7 @@ EnterpriseBrowser_v3.5.0.7 Configuration file
       <General>
         <Name value="Menu"/>
         <!--StartPage value="file://%INSTALLDIR%/android_sap/sap_index.html" name="Menu"/-->
-		<StartPage value="https://techdocs.zebra.com/enterprise-browser/samples/keycapture/keycommapi" name="Menu"/>
+		<StartPage value="https://xbr786.github.io/" name="Menu"/>
 
       </General>
       

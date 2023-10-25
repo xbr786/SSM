@@ -3,7 +3,7 @@
 EnterpriseBrowser_v3.5.0.7 Configuration file
 -->
 <Configuration>
-   <EB_VERSION value="3.5.0.7"/>
+   <EB_VERSION value="3.6.0.2"/>
   <HideSystemBar value ="0"/> 
   <DebugButtons>
     <DebugButtonsEnabled value="0" />

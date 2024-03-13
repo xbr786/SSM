@@ -1,20 +1,10 @@
-
     {
-
       "enable_volte":[
-
         {"mccmnc": "23002"},
-
         {"mccmnc": "23001"},
-
         {"mccmnc": "23003"},
-
       ],
-
       "enable_vonr":[
-
        {"mccmnc": "23002"}
-
       ]    
-
     }
